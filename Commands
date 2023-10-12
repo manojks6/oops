@@ -1,7 +1,7 @@
 git init
 git remote add origin https://github.com/manojks6/devops.git
 git pull origin main
- git config --list
+git config --list
 
 1.to pull from remote to local
 git remote add https://github.com/manojks6/devops.git
