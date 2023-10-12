@@ -12,3 +12,5 @@ git config --global user.email "manumanojks600@gmail.com"
 git config --global user.name "manoj066"
 4.to push from local to remote
 git push -u origin master
+ git add .(to add all files)
+
